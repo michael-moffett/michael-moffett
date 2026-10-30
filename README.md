@@ -2,7 +2,7 @@ I write defender-side invariant harnesses: recurring bug classes encoded as prop
 as a clean reference where the invariant holds and a planted-bug twin where it fires, both running in
 CI on every push.
 
-Solana and Anchor now, EVM alongside it, Cairo before that.
+Solana and EVM alongside it.
 
 The tools are under [CaliperForge](https://github.com/caliperforge) and pinned below.
 
